@@ -1,4 +1,4 @@
-[![MasterHead](https://bgcp.bionluk.com/images/portfolio/1400x788/f3a65a78-7c1d-4a40-96bc-cc3e678ee133.png)
+![MasterHead](https://bgcp.bionluk.com/images/portfolio/1400x788/f3a65a78-7c1d-4a40-96bc-cc3e678ee133.png)
 <h1 align="center">Hi 👋, I'm Şefaat Durmaz</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
