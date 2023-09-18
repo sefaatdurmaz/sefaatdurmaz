@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/search?q=java+ve+spring&client=opera&hs=asH&sca_esv=566267321&tbm=isch&sxsrf=AM9HkKnhst66ltcxUnQPEc5RG2vGJSeFMw:1695040941302&source=lnms&sa=X&ved=2ahUKEwjMjb7Jl7SBAxUn4AIHHa9DADgQ_AUoAnoECAIQBA&biw=1226&bih=562&dpr=1.5#imgrc=5MlekAri_1NO6M)
+[![MasterHead](https://bgcp.bionluk.com/images/portfolio/1400x788/f3a65a78-7c1d-4a40-96bc-cc3e678ee133.png)
 <h1 align="center">Hi 👋, I'm Şefaat Durmaz</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
